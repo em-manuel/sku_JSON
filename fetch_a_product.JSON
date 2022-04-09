@@ -1,0 +1,26 @@
+{
+    "product": {
+        "name": "blue t.shirt",
+        "keywords": "t_shirt, shirt, blue",
+        "detail": "blue tshirt, large",
+        "description": "a goot tshirt is a good tshirt. And this is the one.",
+        "images": "a base-64 img or a central link to images at primary platform (hence images will always be updated)",
+        "specs": {
+            "color": "red",
+            "size": "L",
+            "material": "cotton"
+        },
+        "categories": "clothing,unisex,casual",
+        "brands": "acuwear",
+        "sku": {
+            "bar_code": "12345678",
+            "qr_code": "base_64_code maybe?"
+        },
+        "Inventory": {
+            "time_stamp": "2022....",
+            "in_stock": "20",
+            "booked": "10",
+            "ordered": "10"
+        }
+    }
+}
