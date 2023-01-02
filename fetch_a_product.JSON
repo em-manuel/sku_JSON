@@ -17,6 +17,7 @@
             "qr_code": "base_64_code maybe?"
         },
         "Inventory": {
+            "warehouse":"wh xyz",
             "time_stamp": "2022....",
             "in_stock": "20",
             "booked": "10",
